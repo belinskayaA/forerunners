@@ -9,7 +9,7 @@ The scripts are mainly related to the work on the [Real-time encephalography Pro
 **IDE:** `Jupyter Notebook`
 
 
-[Forerunners](!!!) 
+[Forerunners](https://github.com/belinskayaA/forerunners/blob/a4af8d50b455aec87c0c67542be310337b01e651/Forerunners.ipynb) 
 
 Here we consider EEG as a sequence of discrete patterns and use Markov Models (MM) to explore transitions between them. In this study, using MM we followed the NFB induced changes in the transitory dynamics of EEG.
 
